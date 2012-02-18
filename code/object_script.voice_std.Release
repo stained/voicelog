@@ -1,0 +1,16 @@
+INPUT(
+./release\config.o
+./release\main.o
+./release\playback.o
+./release\recorder.o
+./release\vumeter.o
+./release\fmod.o
+./release\sha1.o
+./release\moc_config.o
+./release\moc_playback.o
+./release\moc_recorder.o
+./release\moc_vumeter.o
+./release\moc_fmod.o
+./release\moc_sha1.o
+./release\qrc_voice_std.o
+);

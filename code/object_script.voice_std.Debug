@@ -1,0 +1,16 @@
+INPUT(
+./debug\config.o
+./debug\main.o
+./debug\playback.o
+./debug\recorder.o
+./debug\vumeter.o
+./debug\fmod.o
+./debug\sha1.o
+./debug\moc_config.o
+./debug\moc_playback.o
+./debug\moc_recorder.o
+./debug\moc_vumeter.o
+./debug\moc_fmod.o
+./debug\moc_sha1.o
+./debug\qrc_voice_std.o
+);

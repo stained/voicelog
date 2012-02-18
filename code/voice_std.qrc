@@ -1,0 +1,22 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>images/fmod_logo.png</file>
+        <file>images/cst_logo.png</file>
+        <file>images/cst_config_logo.png</file>
+        <file>images/cst_playback_logo.png</file>
+        <file>images/cst_password_logo.png</file>
+        <file>images/icons/activateButton.png</file>
+        <file>images/icons/appIcon.png</file>
+        <file>images/icons/appIconSecure.png</file>
+        <file>images/icons/integrity1.png</file>
+        <file>images/icons/integrity2.png</file>
+        <file>images/icons/integrity3.png</file>
+	<file>images/controls/play.png</file>
+	<file>images/controls/pause.png</file>
+	<file>images/controls/stop.png</file>
+	<file>images/controls/speeddn.png</file>
+	<file>images/controls/speedup.png</file>
+	<file>images/controls/eject.png</file>
+     </qresource>
+ </RCC>
+
