@@ -1,0 +1,13 @@
+[Analog] telephone call logging software and hardware. Originally developed as a product which I offered to my employer at the time 
+(a telecommunications company), however they actually wanted a version which could log (and decode) digital audio streams, so this didn't quite fit the profile.
+    
+Features:
+
+* Written for QT 4.1.4 (in c++) for code portability
+* DTMF detection for logging of dialed telephone number
+* FMOD library for audio (mp3 or wav recording)
+* Automatically starts call logging when audio levels surpass a defined threshold
+* One end plugs into a standard PC microphone port
+* Other end goes between a normal telephone and the line
+
+Hardware schematics coming soon (as soon as I locate them again)
